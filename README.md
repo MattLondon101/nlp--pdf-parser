@@ -1,7 +1,7 @@
 # Natural_Language_Processing_Document_Summarization
-Use Jupyter Notebook to automatically summarize your PDFs
+Use AutoDocSum6.py automatically summarize your PDFs
 
-Claim_Req_Travelers_McDonald_5_14.pdf is included as a sample PDF
+Download Claim_Req_Travelers_McDonald_5_14.pdf to view the sample PDF that is summarized by AutoDocSum6.py
 
 View the Jupyter Notebook @ [nbviewer](https://nbviewer.jupyter.org/github/MattLondon101/Natural_Language_Processing_Document_Summarization/blob/master/AutoDocSum6.ipynb)
 
