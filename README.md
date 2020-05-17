@@ -9,11 +9,9 @@ pyLDAvis.display(zit)
 to a separate cell below.  
 Run both cells to view interactive chart for keyword groups.
 
-## AutoDocSum6.ipynb and Claim_Req_Travelers_McDonald_5_14.pdf may not be viewable on GitHub, follow directions below to view:
+View the Jupyter Notebook @ [nbviewer](https://nbviewer.jupyter.org/github/MattLondon101/Images/blob/master/AutoDocSum6.ipynb)
 
-View the Jupyter Notebook @ [nbviewer](https://nbviewer.jupyter.org/github/MattLondon101/Natural_Language_Processing_Document_Summarization/blob/master/AutoDocSum6.ipynb)
-
-Download Claim_Req_Travelers_McDonald_5_14.pdf to view the sample PDF that is summarized by AutoDocSum6.py
+**Download Claim_Req_Travelers_McDonald_5_14.pdf to view the sample PDF that is summarized by AutoDocSum6.py**
 
 
 ![Topic Visualization at end of Notebook](https://github.com/MattLondon101/Images/blob/master/TopicVisualization1.png)
