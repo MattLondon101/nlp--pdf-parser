@@ -1,9 +1,11 @@
 # Natural_Language_Processing_Document_Summarization
 In AutoDocSum6.py, replace path (1st line) with path to your PDF. Then run AutoDocSum6.py to see keywords from you PDF grouped into 5 distinct groups.
 
-For interactive chart, inset AutoDocSum6.py into a JupyterNotebook cell, adding:  
+For interactive chart, inset AutoDocSum6.py into a JupyterNotebook cell, adding:
+```
 zit=pyLDAvis.sklearn.prepare(lda,dtm,vect)  
-pyLDAvis.display(zit)  
+pyLDAvis.display(zit)
+```
 to a separate cell below.  
 Run both cells to view interactive chart for keyword groups.
 
