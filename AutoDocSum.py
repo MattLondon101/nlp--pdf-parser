@@ -1,4 +1,3 @@
-#path='Claim_Req_Travelers_McDonald_5_14.pdf'
 import subprocess
 import matplotlib
 import mglearn
@@ -162,11 +161,11 @@ class nlp():
         #pyLDAvis.save_html(zit,'lda.html')
 
 # User input commands
-#a = str(input("Enter path to .pdf file: "))
+a = str(input("Enter path to .pdf file: "))
 
 # Initiate class
-#action = nlp(a)
-action = nlp('Claim_Req_Travelers_McDonald_5_14.pdf')
+action = nlp(a)
+#action = nlp('Example_Insurance_Claim.pdf')
 action.text_to_lda()
 
 
