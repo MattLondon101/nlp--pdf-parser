@@ -14,8 +14,10 @@ then,
 follow prompt to enter path to .pdf file
 
 ## Output
-Fillable fields grouped into five groups by Latent Dirichlet Allocation (LDA)
+The PDF form fields will be printed into groups by similarity calculated by Latent Dirichlet Allocation (LDA).
 
+
+## Interactive Data Visualization
 
 View the Jupyter Notebook @ [nbviewer](https://nbviewer.jupyter.org/github/MattLondon101/Images/blob/master/AutoDocSum6.ipynb)
 
