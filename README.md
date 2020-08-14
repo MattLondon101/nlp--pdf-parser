@@ -1,13 +1,21 @@
 # Natural_Language_Processing_Document_Parser
-In AutoDocSum6.py, replace path (1st line) with path to your PDF. Then run AutoDocSum6.py to see keywords from you PDF grouped into 5 distinct groups.
+## Installation
+In terminal run:
+```
+pip install -r requirements.txt
+```
 
-For interactive chart, inset AutoDocSum6.py into a JupyterNotebook cell, adding:
+## Run Application
+In terminal run
 ```
-zit=pyLDAvis.sklearn.prepare(lda,dtm,vect)  
-pyLDAvis.display(zit)
+python3 AutoDocSum.py
 ```
-to a separate cell below.  
-Run both cells to view interactive chart for keyword groups.
+then,
+follow prompt to enter path to .pdf file
+
+## Output
+Fillable fields grouped into five groups by Latent Dirichlet Allocation (LDA)
+
 
 View the Jupyter Notebook @ [nbviewer](https://nbviewer.jupyter.org/github/MattLondon101/Images/blob/master/AutoDocSum6.ipynb)
 
