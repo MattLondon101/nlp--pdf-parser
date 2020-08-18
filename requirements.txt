@@ -1,0 +1,11 @@
+matplotlib
+mglearn
+numpy
+pdfminer
+scikit-learn
+pyLDAvis
+PyPDF2
+
+
+
+
